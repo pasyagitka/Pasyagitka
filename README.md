@@ -7,5 +7,5 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="JavaScript" height="25" /></a>
 
 ![](https://komarev.com/ghpvc/?username=pasyagitka&color=green&style=flat-square)
-[![LeetCode user Pasyagitka](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FPasyagitka&logo=leetcode&logoColor=yellow)](https://leetcode.com/Pasyagitka/) 
+[![LeetCode user pasyagitka](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpasyagitka&logo=leetcode&logoColor=yellow)](https://leetcode.com/pasyagitka/)
 ![image](https://www.codewars.com/users/Pasyagitka/badges/micro)
